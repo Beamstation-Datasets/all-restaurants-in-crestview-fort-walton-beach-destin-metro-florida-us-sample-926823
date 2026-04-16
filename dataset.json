@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Metro-wide restaurant data for the Crestview-Fort Walton Beach-Destin (Metro), Florida metropolitan area, spanning Crestview, Fort Walton Beach, and Destin. Covers the full metropolitan dining ecosystem of a growing metropolitan dining market. Filtered by the Restaurants category group with ratings, review analytics, competitive positioning, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Crestview-Fort Walton Beach-Destin (Metro), Florida, US",
+  "export_job_id": "9cb44e70-f98f-4750-a035-c0cd4419fa34",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 926823,
+  "location_name": "Crestview-Fort Walton Beach-Destin, FL",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-crestview-fort-walton-beach-destin-metro-florida-us-sample-926823",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/926823/beamstation_926823_restaurants-us-crestviewfortwaltonbeachdestinfl_SAMPLE_DIST.csv",
+  "sample_pct": 9.82,
+  "sample_records": 60,
+  "sample_sha256": "db600bbf313caf4ec93a2e96a662634f5264991419dce3457a655f915231655e",
+  "sample_size_bytes": 250617,
+  "total_records": 611,
+  "updated_at": "2026-04-07T12:17:36.420057+00:00"
+}
