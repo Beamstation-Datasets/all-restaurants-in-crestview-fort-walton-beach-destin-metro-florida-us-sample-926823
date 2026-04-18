@@ -1,12 +1,12 @@
 {
-  "export_job_id": "9cb44e70-f98f-4750-a035-c0cd4419fa34",
+  "export_job_id": "f77c5be7-9f52-42ba-9e90-9ff12903e44b",
   "id_short": 926823,
-  "published_at": "2026-04-16T07:21:25Z",
+  "published_at": "2026-04-18T07:14:29Z",
   "repo_name": "all-restaurants-in-crestview-fort-walton-beach-destin-metro-florida-us-sample-926823",
   "sample_asset_name": "beamstation_926823_restaurants-us-crestviewfortwaltonbeachdestinfl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/926823/beamstation_926823_restaurants-us-crestviewfortwaltonbeachdestinfl_SAMPLE_DIST.csv",
   "sample_records": 60,
   "sample_sha256": "db600bbf313caf4ec93a2e96a662634f5264991419dce3457a655f915231655e",
   "sample_size_bytes": 250617,
-  "total_records": 611
+  "total_records": 606
 }
