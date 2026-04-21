@@ -1,6 +1,6 @@
 # All Restaurants in Crestview-Fort Walton Beach-Destin (Metro), Florida, US
 
-> Free BeamStation sample export with 60 rows and masked direct-contact fields.
+> Free BeamStation sample export with 51 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `926823` |
 | Location | Crestview-Fort Walton Beach-Destin, FL |
 | Category | Restaurants |
-| Full dataset size | 606 records |
-| Free sample size | 60 records (9.9%) |
-| Last export | 2026-04-14T12:11:08.678202+00:00 |
+| Full dataset size | 514 records |
+| Free sample size | 51 records (9.92%) |
+| Last export | 2026-04-21T12:53:04.231698+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-crestview-fort-walton-beach-destin-metro-florida-us-sample-926823/releases/download/sample-latest/beamstation_926823_restaurants-us-crestviewfortwaltonbeachdestinfl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
